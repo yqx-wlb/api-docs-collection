@@ -1,0 +1,15 @@
+{
+  "name": "api-docs-collection",
+  "version": "1.0.0",
+  "description": "This repository contains a collection of API documentation for various frameworks, libraries and components.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@alifd/next": "^1.27.32"
+  }
+}
